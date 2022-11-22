@@ -1,12 +1,15 @@
-# sch-ai-academy
-We offer the very popular AI course fast.ai Schibsted style. That means that in addition to lessons by Jeremy Howard, we will provide lab sessions where the students will discuss and train their own AI models with the help of instructors from Schibsted.
+# sch AI Academy
+Maintainer: @simeneide
+
+> Note to externals: This is an internal repo we currently have released in outside for others to make use of our exercises etc. There are some some (non-secret and irrelevant) internal info in the repo until we get to clean it up.
+
+We mainly follow the very popular AI course fast.ai, but have made some modifications and exercises to make it more Schibsted style. That means that in addition to lessons by Jeremy Howard, we will provide lab sessions where the students will discuss and train their own AI models with the help of instructors from Schibsted.
 
 The course begins by understanding how to apply deep learning. As the course progresses, the student will dive into more details and get a deeper understanding of AI and deep learning, as well as more practical experience in building machine learning models.
 
-- Cost: The training program is supplied by the AI Enablement Program and free of charge 
 - Target audience: Software engineers, data engineers  and other technologists with some coding experience.
 - Expected outcome: A good understanding of AI and deep learning. At the end of the course, the student is able to build AI models and understand a rudimentary way of deploying them.
-- Course set-up: The students follow a training program that runs over 9 weeks. The effort is around 4 hours/week. At the end of the course, the students will present an AI project related to their interests or daily work.
+- Course set-up: The students follow a training program that runs over 9 weeks. The estimated required effort is around 4-6 hours/week. At the end of the course, the students will present an AI project related to their interests or daily work.
 
 ## Meet the instructors 👋
 We are data scientists from across Schibsted and will help you with the exercises and help generate ideas on how to use AI in your daily job. We are:
