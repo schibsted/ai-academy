@@ -10,7 +10,7 @@ The course begins by understanding how to apply deep learning. As the course pro
 
 ## Practical information
 
-- Start: XX December 2022 at 12.00-12.30
+- Start: 08 December 2022 at 12.35-14.45
 - Slack channel used for questions etc: #datascience_og_ml
 
 
@@ -36,15 +36,15 @@ Remember that you can always ask questions on the slack group if you have any!
 <!--- The best way to make big edits of this table is to copy the text into here: https://www.tablesgenerator.com/markdown_tables --->
 | Week | Dates                        | Content                                                                                                                                                       |
 |------|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | 30.8.: Intro    <br>   1.9.: Lab | Tuesday: Short intro   <br>   Thursday:  [Getting started](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w1%20-%20Getting%20started.md) |
-| 2    | 8.9.: Lab                    | [Deployment](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w2%20-%20Production.md)                                                      |
-| 3    | 15.9.: Lab                   | [Neural net foundations](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w3%20-%20Neural%20net%20foundations.md)                          |
-| 4    | 22.9.: Lab                   | [Natural language (NLP)](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w4%20-%20NLP.md)                                                 |
-| 5    | 29.9.: Lab                   | [From-scratch model](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w5%20-%20From-scratch%20model.md)                                    |
-|      | 13.10.: Lab                  | [Data Ethics](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w6%20-%20Ethics.md)                                                         |
+| 1    | 08.12: Lab                   | Tuesday: Short intro   <br>   Thursday:  [Getting started](https://github.com/nrkno/ai-academy/blob/master/lessons/w1%20-%20Getting%20started.md) |
+| 2    | 8.9.: Lab                    | [Deployment](https://github.com/nrkno/ai-academy/blob/master/lessons/w2%20-%20Production.md)                                                      |
+| 3    | 15.9.: Lab                   | [Neural net foundations](https://github.com/nrkno/ai-academy/blob/master/lessons/w3%20-%20Neural%20net%20foundations.md)                          |
+| 4    | 22.9.: Lab                   | [Natural language (NLP)](https://github.com/nrkno/ai-academy/blob/master/lessons/w4%20-%20NLP.md)                                                 |
+| 5    | 29.9.: Lab                   | [From-scratch model](https://github.com/nrkno/ai-academy/blob/master/lessons/w5%20-%20From-scratch%20model.md)                                    |
+|      | 13.10.: Lab                  | [Data Ethics](https://github.com/nrkno/ai-academy/blob/master/lessons/w6%20-%20Ethics.md)                                                         |
 | 6    | 20.10.: Lab                  | AI Project                                                                                                                                                    |
-| 7    | 27.10.: Lab                  | [Random forests](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w7%20-%20Random%20forests.md)                                            |
-| 8    | 3.11.: Lab                   | [Collaborative filtering](https://github.com/NegatioN/fastai-course-plan/blob/master/lessons/w8%20-%20collaborative%20filtering.md)                                                                                                                                       |
+| 7    | 27.10.: Lab                  | [Random forests](https://github.com/nrkno/ai-academy/blob/master/lessons/w7%20-%20Random%20forests.md)                                            |
+| 8    | 3.11.: Lab                   | [Collaborative filtering](https://github.com/nrkno/ai-academy/blob/master/lessons/w8%20-%20collaborative%20filtering.md)                                                                                                                                       |
 | 9    | 10.11.                       | Convolutions (CNNs)                                                                                                                                           |
 | 10   | 17.11.                       | AI project                                                                                                                                                    |
 | 11   | 24.11                        | Thursday: AI project presentation                                                                                                                             |
