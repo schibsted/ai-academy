@@ -1,6 +1,6 @@
 # Week 1 - Getting started
 
-Welcome to the first week of the course! We ran a pilot of this course before the summer. Since then, a new version of the course was released. We're really excited to take you through the newest version!
+Welcome to the first week of the course!
 
 The course material is quite extensive. There's a vast number of things to try out. We've picked out and presented the parts that we think are most importen here in this repo. If you have a lot of time and energy, you are of couse welcome to do more :)
 
