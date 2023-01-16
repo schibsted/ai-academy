@@ -2,7 +2,9 @@
 
 ## Before the lab session
 
-Watch Video Lesson 2: 
+In this weeks video Jeremy shows you how to deploy a model on HuggingFace spaces. We recommend that you pay attention and take notes as you watch this part of the video, because it will be useful during the lab session. 
+
+Watch Video Lesson 2:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F4tvM4Vb3A0/0.jpg)](https://www.youtube.com/watch?v=F4tvM4Vb3A0)
 
@@ -13,16 +15,12 @@ Watch Video Lesson 2:
 
 Run through, and try to understand what's going on in the notebook of the week:
 
-Kaggle:
 [Chapter 2 Notebook](https://www.kaggle.com/code/jhoward/saving-a-basic-fastai-model/notebook)
 
-Colab:
-[Chapter 2 Notebook](https://colab.research.google.com/github/fastai/course22/blob/master/02-saving-a-basic-fastai-model.ipynb) (Copy to your drive if you want changes to persist)
-
 ### Task 2
-
-In this weeks video, Jeremy shows how you kan create a "HuggingFace Space", and deploy a model as a Gradio (or Streamlit) app. This is a method that is great for showcasing your work, i.e. on HackDays, for pilot-projects and for the student project at the end of this course.
-
-Try to deploy the 'is-it-a-bird'-model, or your own model from last week, and share the link in our slack channel!
+- save the model that you created last week (or use the one generated in Task 1)
+- create an account on [Huggingface](https://huggingface.co/) (one per group is sufficient)
+- follow the steps from the video, to deploy the model  
+- share the link in our slack channel!
 
 [This tutorial](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) is mentioned by Jeremy in the video, and might be useful
