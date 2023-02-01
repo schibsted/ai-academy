@@ -15,7 +15,7 @@ Run through, and try to understand what's going on in the [notebook of the week]
 
 ### Task 2
 
-We have generated quadratic data for you, by choosing some parameters a, b and c, and added noise. Each group has different noise in their dataset. You can find the dataset in the shared drive.
+We have generated quadratic data for you, by choosing some parameters a, b and c, and added noise. Each group has different noise in their dataset. You can find the dataset in the shared drive, in the group-folder.
 
 #### a) 
 Import the data into the notebook of the week.
@@ -28,7 +28,7 @@ Create a function similar to "double_relu()", containing 8 relu's instead of 2. 
 
 ### Task 3 
 
-Reproduce the titanic example from the video in a spreadsheet. We have prepared a spreadsheet for you, and instructions. You'll find both in the shared drive.
+Reproduce the titanic example from the video in a spreadsheet. We have prepared a spreadsheet for you, and instructions. You'll find both in the shared drive, in the folder for this session.
 
 Note: if you prefer to use Excel you can. We have not managed to make this work in Libre Office Calc. Google-sheets will work for everyone, regardless of operating system.
 
