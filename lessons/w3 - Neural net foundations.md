@@ -18,7 +18,7 @@ Run through, and try to understand what's going on in the [notebook of the week]
 We have generated quadratic data for you, by choosing some parameters a, b and c, and added noise. Each group has different noise in their dataset. You can find the dataset in the shared drive, in the group-folder.
 
 #### a) 
-Import the data into the notebook of the week.
+Import the data into the notebook of the week. In Kaggle, you can hover over the data, and a "copy file path" option will appear to the right. You can use the pandas-function read_csv() to read the data into your notebook. 
 #### b) 
 Try to figure out what parameters we used to generate the data, using gradient decent to fit the three parameters a, b and c.
 #### c) 
