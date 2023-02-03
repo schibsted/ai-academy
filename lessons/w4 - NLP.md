@@ -4,7 +4,7 @@
 
 Watch Video Lesson 4: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hBBOjCiFcuo/0.jpg)](https://www.youtube.com/watch?v=hBBOjCiFcuo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hBBOjCiFcuo/0.jpg)](https://www.youtube.com/watch?v=toUgBQv1BT8)
 
 
 ## Lab session
