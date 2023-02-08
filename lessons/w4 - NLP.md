@@ -15,13 +15,9 @@ During the lab session you are going to hear more about (Schibsted) use cases fo
 
 Run through, and try to understand what's going on in the notebook of the week:
 
-Kaggle:
 [Week 4 Notebook](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners)
 
-Colab:
-[Week 4 Notebook](https://colab.research.google.com/github/fastai/course22/blob/master/slides/nlp-intro.ipynb) (Copy to your drive if you want changes to persist)
-
-If you are running the code on Colab, you will also have to add multiple lines of installing libraries:
+If you for some reason are running the code on Colab instead of Kaggle, you will also have to add multiple lines of installing libraries:
 
     !pip install kaggle
     !pip install datasets
@@ -30,7 +26,7 @@ If you are running the code on Colab, you will also have to add multiple lines o
 
 ### Task 2
 
-Get familiar with the datasets library and using models from the Huggingface hub for tasks such as semantic search or NER. You can have a go at this on your own, but [here](https://colab.research.google.com/drive/1Uoh8RB3JNvkAJXv4b8mkGOHaZhkQpW0Q) is also an optional notebook that you can follow.
+Get familiar with the datasets library and using models from the Huggingface hub for tasks such as semantic search or NER. You can have a go at this on your own, but we have prepared a notebook for you if you wish to have a starting poing. You can find the notebook in the shared drive (which is pinned at the top of the slack-channel)
 
 
 ## Additional (optional!) reading
