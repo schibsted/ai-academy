@@ -17,7 +17,10 @@ Run through, and try to understand what's going on in the notebook of the week:
 
 [Week 4 Notebook](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners)
 
-If you for some reason are running the code on Colab instead of Kaggle, you will also have to add multiple lines of installing libraries:
+**important**
+Instructions on how to access the data for this notebook are written in the first part of the notebook. 
+
+If you for some reason are running the code on Colab (or some other place) instead of Kaggle, you will have to go through the process of fetching the data. You will also have to add multiple lines of installing libraries:
 
     !pip install kaggle
     !pip install datasets
