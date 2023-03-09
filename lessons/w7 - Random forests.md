@@ -20,12 +20,11 @@ Understanding the general can also be useful for this week's tasks.
 This lab's notebook is https://www.kaggle.com/code/stefanwender/ai-academy-tabular-task .
 
 (This week's video is based on a Kaggle notebook that can be used as a reference: [Week 7 Notebook](https://www.kaggle.com/code/jhoward/how-random-forests-really-work)
-Jeremy also touches upon the book chapter, so in case you are wondering about the code for Model Interpretation and later, that is available here (unfortunately not on Kaggle): https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb
-)
+Jeremy also touches upon the book chapter, so in case you are wondering about the code for Model Interpretation and later, that is available [here](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb) (unfortunately not on Kaggle).
 
 In this lab, you will work with a simple model that predicts reservation cancellations of hotel guests, using things learned during the course.
-The source of the task is a Kaggle tabular modelling competition (https://www.kaggle.com/competitions/playground-series-s3e7), which uses a synthetic data set that is based on a 'real' reservation
-cancellation data set (https://www.kaggle.com/datasets/gauravduttakiit/reservation-cancellation-prediction).
+The source of the task is [a Kaggle tabular modelling competition](https://www.kaggle.com/competitions/playground-series-s3e7), which uses [a synthetic data set](https://www.kaggle.com/datasets/gauravduttakiit/reservation-cancellation-prediction) that is based on a 'real' reservation
+cancellation data set.
 A synthetic dataset matches the characteristics of the original (attributes, distribution of attributes etc.) nearly entirely but has different values.
 
 
