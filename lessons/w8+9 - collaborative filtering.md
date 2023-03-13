@@ -1,9 +1,18 @@
-# Week 8 - Collaborative Filtering 
+# Week 8 + 9 - Collaborative Filtering
+In week 8 and 9 we will introduce two new concepts: 
+First we will learn a new high-level library that can be used instead of fast.ai: `Pytorch-Lightning`. 
+Secondly, we will learn about recommender systems and the widely popular matrix factorization model. 
+In particular, we will use pytorch-lightning to train a news recommender system.
 
-## Before the lab session
+We have divided the tasks into part 1 and part 2. 
+
+## Week 8
+
+### Before the lab session
+
 NB: This week has 2hrs 15min of lectures.
 
-Watch video lesson 7 
+Watch video lesson 7
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p4ZZq0736Po/0.jpg)](https://www.youtube.com/watch?v=p4ZZq0736Po)
 
@@ -11,25 +20,31 @@ Watch the first 30 minutes of lesson 8:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/htiNBPxcXgo/0.jpg)](https://youtu.be/htiNBPxcXgo)
 
+Use the notebook while watching the lecture, and make sure you follow the steps approximately. 
+The notebook Jeremy use can be found [here](https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive/notebook).
 
-## Lab session
-In this lab session we will try to build a recommender system for news. 
-We will use the MIND news dataset from microsoft (https://www.kaggle.com/datasets/arashnic/mind-news-dataset).
-I have prepared a script that does some pre-processing and train a simple collaborative filtering model.
-Instead of using the fast.ai framework, we will use pytorch lightning as our high level pytorch framework. 
-I am sure you will see a lot of similarities (e.g. all pytorch stuff is equivalent as we're still using pytorch):
+If you have time, you can also start looking at the [pytorch-lightning framework](https://pytorch-lightning.readthedocs.io/en/stable/starter/introduction.html).
+)
 
-https://www.kaggle.com/code/enemis/mind-recommender-from-scratch (I am still working on this, will be ready for lab session)
+### Lab session
+In this session we will familiarize us with the high level framework pytorch lightning, and if time we will start applying it to a news recommender system. If you dont manage to do everything, do not worry, we will continue in week 9!
+
+First, go through the [pytorch-lightning framework](https://pytorch-lightning.readthedocs.io/en/stable/starter/introduction.html).
+There you will see how you can set up training a model. Understand the steps, and discuss with your group how it is different from fast.ai.
+
+Secondly, we will use pytorch lightning to build a news recommender system!
+We will use the [MIND news dataset from microsoft](https://www.kaggle.com/datasets/arashnic/mind-news-dataset).
 
 
-### Tasks
-- Make sure you understand the lecture material (video and notebook). The notebook Jeremy use can be found [here](https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive/notebook).
+#### Tasks
 
 ### News Recommender "mini project"
-We have prepared a small news recsys "shell" to play around with in this class:
+We have prepared a script that does some pre-processing and train a simple collaborative filtering model that we will work on in the class:
 https://www.kaggle.com/code/enemis/mind-recommender-from-scratch
 
-#### Part 1
+**There is no need to understand all the preprocessing steps here. You can quickly skim through that and start at "Output of data preprocessing"**.
+
+#### Week 8 exercises
 
 - In the pytorch lightning module, create a `self.forward()` function that takes a batch of users+items and compute relevancy scores
 - Modify `self.training_step()` to use the `self.forward()` function.
@@ -45,7 +60,12 @@ def step(self, batch, batch_idx, phase="train"):
 - Does the results in the previous step make sense? How do you validate it?
 - The current model does not print any statistics like when fastai is training. Check out [this link to see how we could make something simple to print out losses after each epoch](https://stackoverflow.com/questions/71236391/pytorch-lightning-print-accuracy-and-loss-at-the-end-of-each-epoch). Do you see how to print validation loss as well?
 
-#### Part 2
+## Week 9
+
+### Before the lab session
+MOVE SOME OF THE LECTURE FROM PART 1 TO HERE AND ADD SOMETHING ABOUT "SLATE LIKELIHOOD".
+
+#### Week 9 exercises
 Play around with the shell and see if you can modify it in any direction. Either by improving the model, or by adding metrics that are useful for us to understand the performance of the model. Examples can be (in no particular order):
 
 ##### Training tools
