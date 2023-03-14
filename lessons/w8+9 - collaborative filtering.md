@@ -40,7 +40,7 @@ We will use the [MIND news dataset from microsoft](https://www.kaggle.com/datase
 
 ### News Recommender "mini project"
 We have prepared a script that does some pre-processing and train a simple collaborative filtering model that we will work on in the class:
-https://www.kaggle.com/code/enemis/mind-recommender-from-scratch
+https://www.kaggle.com/code/jacobwelander/mind-recommender-from-scratch-2023
 
 **There is no need to understand all the preprocessing steps here. You can quickly skim through that and start at "Output of data preprocessing"**.
 
@@ -50,11 +50,16 @@ https://www.kaggle.com/code/enemis/mind-recommender-from-scratch
 - Modify `self.training_step()` to use the `self.forward()` function.
 - How can you use `self.forward()` to recommend relevant news items from this model? Implement it!
 
-The idea for the three tasks above is that we create a forward function that can compute the score between a tensor of users and items. This can then later be used in the predict (or recommend) phase of the model. It should be in a format so that the start of the `step` function looks like:
+The idea for the three tasks above is that we create a forward function that can compute the relevancy score between a tensor of users and items.
+This is useful because we can use the forward function both when training but also in the predict (or recommend) phase of the model. 
+
+The forward function should be in a format so that the start of the `step` function looks like:
 ```
 def step(self, batch, batch_idx, phase="train"):
   score_click = self.forward(batch['userIdx'], batch['click'])
-  score_noclick = self.forward(batch['userIdx'], batch['noclick'])
+  
+  neg_sample = torch.randint_like(batch["click"],1,self.num_items)
+  score_noclick = self.forward(batch['userIdx'], neg_sample)
 ```
 
 - Does the results in the previous step make sense? How do you validate it?
@@ -77,7 +82,7 @@ Play around with the shell and see if you can modify it in any direction. Either
 - Try to add user or item biases to the model. Does it help? (and for the theoretical nerds: Should it help?)
 - Add l2 regularization to the parameters to reduce any potential overfitting,
 - Implement a model that uses a random negative example instead of the in the slate. How does this change your assumption about user behaviour?
-- Use more than 1 negative sample when training (either by using the sampled negative or you use more elements in the "noclicks" column)
+- Use more than 1 negative sample when training
 
 
 ##### Advanced
