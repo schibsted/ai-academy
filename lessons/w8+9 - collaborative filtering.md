@@ -12,7 +12,8 @@ We have divided the tasks into part 1 and part 2.
 
 NB: This week has 2hrs 15min of lectures.
 
-Watch video lesson 7
+**Watch video lesson 7** (The first 60 minutes is of various topics and some topics can be skimmed (although still useful). But its important to understand cross entropy!) )
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p4ZZq0736Po/0.jpg)](https://www.youtube.com/watch?v=p4ZZq0736Po)
 
