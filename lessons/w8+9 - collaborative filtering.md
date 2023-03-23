@@ -68,9 +68,6 @@ def step(self, batch, batch_idx, phase="train"):
 
 ## Week 9
 
-### Before the lab session
-MOVE SOME OF THE LECTURE FROM PART 1 TO HERE AND ADD SOMETHING ABOUT "SLATE LIKELIHOOD".
-
 #### Week 9 exercises
 Play around with the shell and see if you can modify it in any direction. Either by improving the model, or by adding metrics that are useful for us to understand the performance of the model. Examples can be (in no particular order):
 
