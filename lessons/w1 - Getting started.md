@@ -1,5 +1,7 @@
 # Week 1 - Getting started
 
+Welcome to the first lab session!
+
 ## Before the lab session
 
 Watch Video Lesson 1: 
@@ -12,18 +14,16 @@ Watch Video Lesson 1:
 
 ## Lab session
 
-### Task 1 (Only if you are unfamiliar with Python/ Jupyter ):
-
-The following notebook is a good starting point for getting started with python/ jupyter notebooks
-
-[Recommended notebook for students unfamiliar with Python/Jupyter](https://www.kaggle.com/code/jhoward/jupyter-notebook-101) 
-
-
-### Task 2
+### Task 1
 Run through, and try to understand what's going on in the following notebook:
 
 [Chapter 1 Notebook](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data)
  
 
-### Task 3
+### Task 2
 Create your own model! You can look [here](https://forums.fast.ai/t/share-your-work-here/96015) for inspiration
+
+
+### Task 3 - reflection
+* Does your team work with image data?
+* If yes, discuss possible usecases in your team based on what you have learned in this session
