@@ -8,7 +8,7 @@ Watch Video Lesson 1:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8SF_h3xF3cE/0.jpg)](https://www.youtube.com/watch?v=8SF_h3xF3cE)
 
-* create an account on Kaggle
+* create an account on [Kaggle](https://www.kaggle.com/account/login?phase=startRegisterTab)
 * verify your phone number in order to use GPU
 * Click 'Copy & Edit'
 
