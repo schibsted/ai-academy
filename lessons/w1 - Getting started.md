@@ -10,7 +10,7 @@ Watch Video Lesson 1:
 
 * create an account on [Kaggle](https://www.kaggle.com/account/login?phase=startRegisterTab)
 * verify your phone number in order to use GPU
-* Click 'Copy & Edit'
+* Click 'Copy & Edit' on the [Chapter 1 Notebook](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data)
 
 ## Lab session
 
