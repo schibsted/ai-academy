@@ -1,26 +1,25 @@
 # Week 2 - Production
 
-## Before the lab session
+Welcome to the second lab session! In this weeks video Jeremy shows you how to use a model to clean data, and how to deploy a model on HuggingFace spaces.
 
-In this weeks video Jeremy shows you how to deploy a model on HuggingFace spaces. We recommend that you pay attention and take notes as you watch this part of the video, because it will be useful during the lab session. 
+## Before the lab session
 
 Watch Video Lesson 2:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F4tvM4Vb3A0/0.jpg)](https://www.youtube.com/watch?v=F4tvM4Vb3A0)
 
-
 ## Lab session
 
 ### Task 1
-
-Run through, and try to understand what's going on in the notebook of the week:
-
-[Chapter 2 Notebook](https://www.kaggle.com/code/jhoward/saving-a-basic-fastai-model/notebook)
+The aim of this task is to deploy the model you created in the first session, to a Huggingface Space. We have created [the following guide for you](https://docs.google.com/presentation/d/1kNVEPMferZE5Fx6QswFuF5YLCBiIgbGz9nsWKlSItnU/edit?usp=sharing), in an attempt to avoid confusion :D
 
 ### Task 2
-- save the model that you created last week (or use the one generated in Task 1)
-- create an account on [Huggingface](https://huggingface.co/) (one per group is sufficient)
-- follow the steps from the video, to deploy the model  
-- share the link in our slack channel!
+The aim of this task is to use the model you created in the first session, to clean the data. Open the notebook from last week, where you created your own model, and follow the instructions given [here](https://www.kaggle.com/code/aylinmariadursun/clean-data-ai-academy)
 
-[This tutorial](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) is mentioned by Jeremy in the video, and might be useful
+### Task 3
+Play around with the model your model. If you run out of ideas, you can try the following:
+* increase the number of epochs when finetuning. Look at the output. Do you understand what it means?
+* repeat finetuning multiple times in a row. Is the output consistent?
+* try to plot a confusion matrix
+* generate dataloaders from path after the data is cleaned. Does the model improve? Does the confusion matrix change?
+
