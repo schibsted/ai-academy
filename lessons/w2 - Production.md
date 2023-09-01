@@ -1,6 +1,6 @@
 # Week 2 - Production
 
-Welcome to the second lab session! In this weeks video Jeremy shows you how to use a model to clean data, and how to deploy a model on HuggingFace spaces.
+Welcome to the second lab session! In this session we will focus on how to use a model to clean data, and how to deploy a model on HuggingFace spaces.
 
 ## Before the lab session
 
