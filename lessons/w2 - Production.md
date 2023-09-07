@@ -17,7 +17,7 @@ The aim of this task is to deploy the model you created in the first session, to
 The aim of this task is to use the model you created in the first session, to clean the data. Open the notebook from last week, where you created your own model, and follow the instructions given [here](https://www.kaggle.com/code/aylinmariadursun/clean-data-ai-academy)
 
 ### Task 3
-Play around with the model your model. If you run out of ideas, you can try the following:
+Play around with the model. If you run out of ideas, you can try the following:
 * increase the number of epochs when finetuning. Look at the output. Do you understand what it means?
 * repeat finetuning multiple times in a row. Is the output consistent?
 * try to plot a confusion matrix
