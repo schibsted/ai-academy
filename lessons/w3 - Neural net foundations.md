@@ -20,7 +20,9 @@ c) Look through [these slides](https://docs.google.com/presentation/d/1GYZxCM7Kl
 d) Scroll to the cell where you can change the values of a, b and c to fit the function, and MAE is displayed. Modify the code so that the following sentences are displayed above the graph. The words "increased" and "decreased", and the numberical values at the end of the sentences should be updated when the sliders are changed:
 
 parameter a should be increased because the params.grad[0] is -1.3
+
 parameter b should be decreased because the params.grad[1] is 0.2
+
 parameter c should be increased because the params.grad[2] is -0.5
 
 Hint 1: if you are comfortable with analytical derivation, and are new to numerical derivation using pytorch, remember that you can look at slide 2 [here](https://docs.google.com/presentation/d/1GYZxCM7KlSgsB3bum1FU21lZFAeDg1oWAn4tkP15Xa8/edit?usp=sharing)
