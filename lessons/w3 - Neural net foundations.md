@@ -27,19 +27,19 @@ parameter c should be increased because params.grad[2] is -0.5
 
 Hint 1: if you are comfortable with analytical derivation, and are new to numerical derivation using pytorch, remember that you can look at slide 2 [here](https://docs.google.com/presentation/d/1GYZxCM7KlSgsB3bum1FU21lZFAeDg1oWAn4tkP15Xa8/edit?usp=sharing)
 
-Hint 2: if you have trouble with the function 'python plot_function , try to add `python with torch.no_grad():` either to the function, or when the function is called.
+Hint 2: if you have trouble with the function `plot_function` , try to add `with torch.no_grad():` either to the function, or when the function is called.
 
 e) Are you able to explain how the process of fitting the three parameters can be automated?
 
 ### Task 2
 
-a) scroll to the cell where the function `python double_relu` is defined. Create a new cell below it and define a function called `python triple_relu` which returns the sum of three rectified linear functions
+a) scroll to the cell where the function `double_relu` is defined. Create a new cell below it and define a function called `triple_relu` which returns the sum of three rectified linear functions
 
-b) create an interactive plot with 6 sliders, displaying the `python triple_relu` function
+b) create an interactive plot with 6 sliders, displaying the `triple_relu` function
 
-c) add a scatter plot displaying the quadratic function with noise to the interactive plot. Can you make `python triple_relu` approximate the scatter plot?
+c) add a scatter plot displaying the quadratic function with noise to the interactive plot. Can you make `triple_relu` approximate the scatter plot?
 
-d) modify the function `python rectified_linear` so that it returns a normal linear function instead of a rectified linear function. How does this affect the interactive plot displaying `python triple_relu`?
+d) modify the function `rectified_linear` so that it returns a normal linear function instead of a rectified linear function. How does this affect the interactive plot displaying `triple_relu`?
 
 e) Try to describe the training process of a neural network to each other. There are a lot of new concepts, so don't worry if you cannot grasp it all. We will revisit this in session 5.
 
