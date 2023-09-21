@@ -15,7 +15,7 @@ a) Run through, and try to understand what's going on in the [notebook of the we
 
 b) You can think of the example with the quadratic function as an analogy to the model you created in the first lesson. Try to explain the analogy to each other. What do the x and y-values of the quadratic function correspond to?
 
-c) Look through slide 5-9 in [this presentation](https://docs.google.com/presentation/d/1GYZxCM7KlSgsB3bum1FU21lZFAeDg1oWAn4tkP15Xa8/edit?usp=sharing) together. Do the illustrations match your understanding of the training process?
+c) Look through slide 5-12 in [this presentation](https://docs.google.com/presentation/d/1GYZxCM7KlSgsB3bum1FU21lZFAeDg1oWAn4tkP15Xa8/edit?usp=sharing) together. Do the illustrations match your understanding of the training process?
 
 d) Scroll to the cell where you can change the values of a, b and c to fit the function, and MAE is displayed. Modify the code so that the following sentences are displayed above the graph. The words "increased" and "decreased", and the numberical values at the end of the sentences should be updated when the sliders are changed:
 
