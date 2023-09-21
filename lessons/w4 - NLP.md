@@ -9,7 +9,7 @@ Watch Video Lesson 4:
 
 ## Lab session
 
-During the lab session you are going to hear more about (Schibsted) use cases for NLP.
+During the lab session you are going to hear more about LLMs and how they work.
 
 ### Task 1
 
