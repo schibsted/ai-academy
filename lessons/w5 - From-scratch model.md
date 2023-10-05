@@ -19,7 +19,7 @@ We have created [some slides](https://docs.google.com/presentation/d/12j8Jz3PnH9
 * Jeremy explains that if you choose a too high learning rate, the training will not improve the model. Can you explain why?
 * Can you explain what will happen if you use a too small learning rate?
 * Can you explain why we use the sigmoid function?
-* Can you explain how the gradient desent step works? Can you point out the code that corresponds to the gradient desent step?
+* Can you explain how the gradient descent step works? Can you point out the code that corresponds to the gradient descent step?
 * Can you explain why we sometimes need to use the torch.no_grad()-function?
 
 
