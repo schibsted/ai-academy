@@ -35,18 +35,20 @@ Currently, this notebook contains a simple implementation that
 
 
 Your tasks are to improve upon this implementation in the following ways:
-1. Improve the data preprocessing and feature engineering: Using the techniques you learned in this week's video and previous lessons, select the most relevant attributes and, through cleaning and modification
-   (where necessary and useful) try to improve model performance.
-   Some common feature engineering steps are 
-   - Checking for empty (NaN) values
-   - Handling outliers: through deletion, log-transforming etc..
-   - One-hot-encoding or dummy values for categorical variables.
-   - Removing entirely unnecessary/correlated attributes   
-   - Transforming datetime values to something more meaningful
+1. Improve the data preprocessing and feature engineering: Using the techniques you learned in this week's video and previous lessons, especially in [Session 5](https://github.com/schibsted/ai-academy/blob/main/lessons/w5%20-%20From-scratch%20model.md#task-4),  select the most relevant attributes and, through cleaning and modification
+   (where necessary and useful) try to improve model performance. 
+   Some common feature engineering steps that Jeremy presented previously and that you already used in other sessions, are
+      - Replacing missing values with mode
+      - Normalizing variables
+      - Checking for empty (NaN) values
+      - Handling outliers: through deletion, log-transforming etc..
+      - One-hot-encoding or dummy values for categorical variables.
+      - Removing entirely unnecessary/correlated attributes   
+      - Transforming datetime values to something more meaningful
    
-   Feature engineering in general is very dependent on the data you are working with and the algorithm you want to prepare it for. 
-   If you are unsure whether you need to prepare your data in some way, you can always train a baseline with raw data first and 
-   then change your training for better performance data for subsequent runs. 
+      Feature engineering in general is very dependent on the data you are working with and the algorithm you want to prepare it for. 
+      If you are unsure whether you need to prepare your data in some way, you can always train a baseline with raw data first and 
+      then change your training for better performance data for subsequent runs. 
 2. Optimise the decision tree model: Currently the tree only uses a single rule and already achieves nearly 70% accuracy in the test data and close to this in the validation/competition data.
    How much can you improve this through tweaking the tree parameters - or using a random forest classifier instead?
 3. (Optional) Create an XGBoost classifier: Jeremey mentions XGBoost only briefly, but in many instances where tabular data is involved, XGBoost models outperform simple decision tree/random forests. They are also
