@@ -11,7 +11,7 @@ Watch Video Lesson 2:
 ## Lab session
 
 ### Task 1
-The aim of this task is to deploy the model you created in the first session, to a Huggingface Space. We have created [the following guide for you](https://docs.google.com/presentation/d/1kNVEPMferZE5Fx6QswFuF5YLCBiIgbGz9nsWKlSItnU/edit?usp=sharing), in an attempt to avoid confusion :D
+The aim of this task is to deploy the model you created in the first session, to a Huggingface Space. We have created [the following guide for you, you need to scroll down a bit]([https://docs.google.com/presentation/d/1kNVEPMferZE5Fx6QswFuF5YLCBiIgbGz9nsWKlSItnU/edit?usp=sharing](https://sch-chat.slack.com/files/U044T6EH87M/F06GLL6GCL9/ai_academy_-_deployment)), in an attempt to avoid confusion :D
 
 ### Task 2
 The aim of this task is to use the model you created in the first session, to clean the data. Open the notebook from last week, where you created your own model, and follow the instructions given [here](https://www.kaggle.com/code/aylinmariadursun/clean-data-ai-academy)
