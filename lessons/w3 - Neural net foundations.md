@@ -15,7 +15,7 @@ a) Run through, and try to understand what's going on in the [notebook of the we
 
 b) You can think of the example with the quadratic function as an analogy to the model you created in the first lesson. Try to explain the analogy to each other. What do the x and y-values of the quadratic function correspond to?
 
-c) Look through slide 5-12 in [this presentation](https://docs.google.com/presentation/d/1GYZxCM7KlSgsB3bum1FU21lZFAeDg1oWAn4tkP15Xa8/edit?usp=sharing) together. Do the illustrations match your understanding of the training process?
+c) Look through slide 5-12 in [this presentation](https://docs.google.com/presentation/d/1LeeThpKdWWh15AacDKmsxbM-TalrckUwCBj97m8QC1w/edit?usp=drive_link) together. Do the illustrations match your understanding of the training process?
 
 d) Scroll to the cell where you can change the values of a, b and c to fit the function, and MAE is displayed. Modify the code so that the following sentences are displayed above the graph. The words "increased" and "decreased", and the numberical values at the end of the sentences should be updated when the sliders are changed:
 
@@ -25,7 +25,7 @@ parameter b should be decreased because params.grad[1] is 0.2
 
 parameter c should be increased because params.grad[2] is -0.5
 
-Hint 1: if you are comfortable with analytical derivation, and are new to numerical derivation using pytorch, remember that you can look at slide 2 [here](https://docs.google.com/presentation/d/1GYZxCM7KlSgsB3bum1FU21lZFAeDg1oWAn4tkP15Xa8/edit?usp=sharing)
+Hint 1: if you are comfortable with analytical derivation, and are new to numerical derivation using pytorch, remember that you can look at slide 2 [here](https://docs.google.com/presentation/d/1LeeThpKdWWh15AacDKmsxbM-TalrckUwCBj97m8QC1w/edit?usp=drive_link)
 
 Hint 2: if you have trouble with the function `plot_function` , try to add `with torch.no_grad():` either to the function, or when the function is called.
 
