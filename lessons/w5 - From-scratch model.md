@@ -42,4 +42,4 @@ In this weeks video/ notebook, Jeremy cleans and changes the Titanic dataset so 
 
 ### Task 6 (optional, but highly valued)
 
-We are half way through the course! Please spend a few minutes individually and fill out [this feedback form](https://forms.gle/68B7XcxSkeXnFiin8)
+We are half way through the course! Please spend a few minutes individually and fill out [this feedback form](https://forms.gle/4phiMuGDSoFW7jMn9)
