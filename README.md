@@ -1,9 +1,9 @@
-# sch AI Academy
+# Schibsted's course material for their AI Academy Deep learning Track
 Maintainer: @simeneide
 
-> Note to externals: This is an internal repo we currently have released in outside for others to make use of our exercises etc.
+Welcome to the course material for the internal AI Academy that we have run in Schibsted for two years now. Due to popular demand by former colleauges, we decided to open source the material, so everyone can use it and learn more AI. Contributions are welcome, and if you use it in your organization, please give us a shout :)
 
-We mainly follow the very popular AI course fast.ai, but have made some modifications and exercises to make it more Schibsted style. That means that in addition to lessons by Jeremy Howard, we will provide lab sessions where the students will discuss and train their own AI models with the help of instructors from Schibsted.
+We mainly follow the very popular AI course fast.ai, but have made some modifications and exercises to make it more relevant to our products and way of working. That means that in addition to lessons by Jeremy Howard, we will provide lab sessions where the students will discuss and train their own AI models with the help of instructors from Schibsted.
 
 The course begins by understanding how to apply deep learning. As the course progresses, the student will dive into more details and get a deeper understanding of AI and deep learning, as well as more practical experience in building machine learning models.
 
