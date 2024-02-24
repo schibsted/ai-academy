@@ -14,7 +14,7 @@ In session 3 you discussed the process of fitting parameters in an automated way
 
 ### Task 2
 
-We have created [some slides](https://docs.google.com/presentation/d/12j8Jz3PnH9indnhu6bfNqDt1SvbWJPlYOCuxHKS25S8/edit#slide=id.g260ce99ca3c_0_0) that will hopefully make it easier to follow along [the notebook of the week](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch). Use the slides as support while you run through the notebook of the week, and try to understand what's going on.
+We have created [some slides](https://docs.google.com/presentation/d/1KvQOiuBPFfaBtmY1AmY5DG62kOnPCusqsnuPFgnAiVI/edit#slide=id.g260ce99ca3c_0_0) that will hopefully make it easier to follow along [the notebook of the week](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch). Use the slides as support while you run through the notebook of the week, and try to understand what's going on.
 
 * Jeremy explains that if you choose a too high learning rate, the training will not improve the model. Can you explain why?
 * Can you explain what will happen if you use a too small learning rate?
@@ -42,4 +42,4 @@ In this weeks video/ notebook, Jeremy cleans and changes the Titanic dataset so 
 
 ### Task 6 (optional, but highly valued)
 
-We are half way through the course! Please spend a few minutes individually and fill out [this feedback form](https://forms.gle/4phiMuGDSoFW7jMn9)
+We are half way through the course! Please spend a few minutes individually and fill out [this feedback form](https://forms.gle/j6GWQv1dCUmiZvkx8)
