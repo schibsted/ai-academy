@@ -1,4 +1,4 @@
-# Week 6 - Ethics
+# Week 10 - Ethics
 
 There will be no video lecture this week
 
