@@ -41,7 +41,7 @@ We will use the [MIND news dataset from microsoft](https://www.kaggle.com/datase
 
 ### News Recommender "mini project"
 We have prepared a script that does some pre-processing and train a simple collaborative filtering model that we will work on in the class:
-https://www.kaggle.com/code/jacobwelander/mind-recommender-from-scratch-2023
+https://www.kaggle.com/code/danielpleus/mind-recommender-from-scratch-2024
 
 **There is no need to understand all the preprocessing steps here. You can quickly skim through that and start at "Output of data preprocessing"**.
 
